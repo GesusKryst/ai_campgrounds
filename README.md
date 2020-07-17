@@ -1,2 +1,2 @@
-# machineLearningWorkshop
-Small playground used to work with ML type projects
+# AI Learning Workshop
+Small playground used to work with AI type projects
